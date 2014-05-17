@@ -1,7 +1,7 @@
  
 
 
-#include"stdafx.h"
+
 #include<iostream>
 using namespace std;
 int _main(int argc),_TCHAR: arvg[])
